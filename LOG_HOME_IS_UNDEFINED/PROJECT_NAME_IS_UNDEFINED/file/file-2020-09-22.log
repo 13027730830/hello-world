@@ -1,0 +1,15 @@
+2020-09-22 14:58:39,022 [INFO] [main] com.cc.kafka.KafkaDemoApplication [StartupInfoLogger.java : 55] Starting KafkaDemoApplication on DESKTOP-NI7U5GB with PID 9196 (D:\Git\wangchen1206\spring-boot-jenkins-test\target\classes started by 86130 in D:\Git\wangchen1206\spring-boot-jenkins-test)
+2020-09-22 14:58:39,023 [INFO] [main] com.cc.kafka.KafkaDemoApplication [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2020-09-22 14:58:39,573 [INFO] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [TomcatWebServer.java : 92] Tomcat initialized with port(s): 8080 (http)
+2020-09-22 14:58:39,578 [INFO] [main] org.apache.coyote.http11.Http11NioProtocol [DirectJDKLog.java : 173] Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-22 14:58:39,579 [INFO] [main] org.apache.catalina.core.StandardService [DirectJDKLog.java : 173] Starting service [Tomcat]
+2020-09-22 14:58:39,579 [INFO] [main] org.apache.catalina.core.StandardEngine [DirectJDKLog.java : 173] Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-09-22 14:58:39,629 [INFO] [main] o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [DirectJDKLog.java : 173] Initializing Spring embedded WebApplicationContext
+2020-09-22 14:58:39,629 [INFO] [main] org.springframework.web.context.ContextLoader [ServletWebServerApplicationContext.java : 284] Root WebApplicationContext: initialization completed in 576 ms
+2020-09-22 14:58:39,732 [INFO] [main] o.s.scheduling.concurrent.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java : 171] Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-22 14:58:39,837 [INFO] [main] org.apache.coyote.http11.Http11NioProtocol [DirectJDKLog.java : 173] Starting ProtocolHandler ["http-nio-8080"]
+2020-09-22 14:58:39,850 [INFO] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [TomcatWebServer.java : 204] Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-22 14:58:39,852 [INFO] [main] com.cc.kafka.KafkaDemoApplication [StartupInfoLogger.java : 61] Started KafkaDemoApplication in 1.07 seconds (JVM running for 1.927)
+2020-09-22 14:58:51,955 [INFO] [http-nio-8080-exec-1] o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [DirectJDKLog.java : 173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-22 14:58:51,955 [INFO] [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet [FrameworkServlet.java : 525] Initializing Servlet 'dispatcherServlet'
+2020-09-22 14:58:51,959 [INFO] [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet [FrameworkServlet.java : 547] Completed initialization in 3 ms
